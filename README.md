@@ -1,4 +1,4 @@
-# ai-adoption-fast-start
+# AI-Adoption-Fast-Start
 
 ## Enterprise AI Fast Start Framework
 
